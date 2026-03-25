@@ -1,5 +1,3 @@
-# my-project
-my firest GitHub project
 # 👨‍💻 Devender Gugulothu - AWS Cloud Engineer Portfolio
 
 ## 🚀 About Me
